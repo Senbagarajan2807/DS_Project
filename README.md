@@ -1,4 +1,10 @@
 **Adaovi - Final Project**
+**Project Title: **
+'LUNG CANCER DETECTION'
+
+**Project Description:** 
+  In healthcare, early detection and accurate diagnosis of diseases are crucial for effective treatment and improved patient outcomes. However, the sheer volume and complexity of medical data make it challenging for healthcare professionals to analyze and interpret all relevant information accurately.
+
 **Problem Statement:**
 
 The primary objective is to develop an advanced deep-learning model that significantly improves the accuracy and efficiency of lung cancer classification based on medical imaging data. By addressing the outlined challenges, the model aims to enable early and reliable detection of lung cancer, ultimately contributing to better patient outcomes and reducing the burden on healthcare systems associated with late-stage diagnoses.
